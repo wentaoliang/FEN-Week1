@@ -1,0 +1,28 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+1. new skills:
+  a). can fully use the [MDN element reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference)
+  b). Web structure 'trees' and HTML syntax
+  c). Can check my web syntax using Udacity Google Chrome Extensions
+
+2. Easy stuff:
+  a). HTML syntax
+  b). understand web structure
+  c). explore more syntax on MDN
+
+3. Difficult stuff:
+  * confuse about <figure></figure> tags, not sure when I have to use it instead using <p><img></p> tag.
+
+4. Problem solving strategies:
+  a). read instruction very carefully
+  b). go through relevant html files very patiently (keep eyes on details)
+  c). get my "hands dirty", tried to code everything which was required by course and compared with answers,
+      if they were the same, I went through again; otherwise, think ago and re-do. 
